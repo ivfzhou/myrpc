@@ -1,0 +1,16 @@
+namespace: product
+environment: *
+name: xxx
+registry: xxx
+server:
+  ip: xxx
+  port: xxx
+  network: xxx
+  serveTimeOut: xxx
+  filter:
+client:
+  requestTimeout: xxx
+  network: xxx
+  filter:
+extension:
+  
